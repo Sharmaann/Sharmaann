@@ -8,13 +8,6 @@ Skills: Python | Node.js | Django | Drf
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sharmaann)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arman-shakerian2003/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmaann)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmaann)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharmaann&show_icons=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharmaann&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sharmaann/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/Sharmaann)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sharmaann)  
 
