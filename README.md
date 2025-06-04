@@ -1,7 +1,7 @@
 ### Hi there 👋, Sharmaann
-#### I am a software engineer :)
 
-Skills: Python | Node.js | Django | Drf 
+I am a software engineer with a bit of knowledge in everything but focusing on concepts :)
+Skills: Python (pure, Django, DRF) | Javascript | Docker 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sharmaann)](https://github.com/ryo-ma/github-profile-trophy)
 
